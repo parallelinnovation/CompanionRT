@@ -16,3 +16,5 @@ This is an open source rotary tool that I am developing and will be making once 
 - Will include safety measures such as stall detection and a thermistor for monitoring temperature.
 - A physical safety cover will be implemented over the throttle slider so that it is impossible to accidentally turn on while in your pocket.
 - 
+
+![](https://i.imgur.com/RcGDQ2m.png)
