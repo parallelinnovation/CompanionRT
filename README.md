@@ -18,3 +18,4 @@ This is an open source rotary tool that I am developing and will be making once 
 - 
 
 ![](https://i.imgur.com/RcGDQ2m.png)
+![](https://i.imgur.com/szMXRDd.png)
