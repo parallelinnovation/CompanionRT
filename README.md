@@ -17,5 +17,6 @@ This is an open source rotary tool that I am developing and will be making once 
 - A physical safety cover will be implemented over the throttle slider so that it is impossible to accidentally turn on while in your pocket.
 - 
 
+![](https://i.imgur.com/jyua01f.png)
 ![](https://i.imgur.com/RcGDQ2m.png)
 ![](https://i.imgur.com/szMXRDd.png)
