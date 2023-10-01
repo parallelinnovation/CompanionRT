@@ -7,7 +7,7 @@ This is an open source rotary tool that I am developing and will be making once 
 
 # Specs
 
-- It has a 7.4V 14650 battery that runs an RS-380 motor.
+- It has a 7.4V 14650 battery pack that runs an RS-380 motor.
 - Motor is capable of running at 25000rpm (no load). Rated current is 4A, so it would draw approx. 20-30W. 
 - The housing is to be 3D printed with a heat-resistant material.
 - It charges via USB-C using a 9V trigger. You would need a power delivery certified USB-C power supply that is capable of switching to 9V. I figure this is better than using a barrel jack.
